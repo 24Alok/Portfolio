@@ -47,7 +47,7 @@ const Home = ({ ratio }) => {
           />
 
           <div>
-            <a target="blank" href="https://drive.google.com/file/d/1vsQytDiv0UdHZrbZaV-VPkBVJVCBJDfR/view?usp=sharing">Hire Me</a>
+            <a target="blank" href="https://drive.google.com/file/d/1KcypwbPSHGtdplvESZCVSzxPSGpsF5v3/view?usp=sharing">Hire Me</a>
             <a target="blank" href="https://chatify-acij.onrender.com/">
               Projects <BsArrowUpRight />
             </a>
