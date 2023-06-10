@@ -1,0 +1,132 @@
+#experiences {
+  width: 100%;
+  padding: 2vmax 2vmax;
+}
+
+
+.section-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font: 700 2.5rem $text2;
+  width: fit-content;
+  border-bottom: 1px solid $color6_1;
+  padding: 5rem 0 0.5rem 0;
+  margin: auto;
+}
+.timeline {
+  padding-top: 5rem;
+  position:relative;
+  width: 100%;
+  
+}
+
+
+.timeline-box {
+  padding: 0.3rem;
+  width: 40%;
+  min-height: 12rem;
+  position: relative;
+  left: 5%;
+  text-align: right;
+}
+
+.timeline-box::after {
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: lightgrey;
+  top: 25%;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+
+.timeline-box:nth-child(2n) {
+  left: 53%;
+  
+}
+
+.timeline-box:nth-child(2n+1)::after {
+  right: -11.8%;
+}
+
+.timeline-box:nth-child(2n)::after {
+  left: -9%;
+  
+}
+
+.timeline-container {
+  padding: 8px;
+  animation: upupdowndown 0.7s infinite linear alternate;
+}
+
+.timeline-logo {
+  position: absolute;
+  width: 50px;
+  overflow: hidden;
+  
+}
+
+.timeline-logo > img {
+  width: 100%;
+  border-radius: 50%;
+  
+}
+
+.timeline-divider {
+  position: absolute;
+  width: 0;
+  top: 10%;
+  left: 50%;
+  border: 1px dashed #0085fa6b;
+  height: 66%;
+  color: #524849;
+  
+}
+
+.timeline-divider .timeline-traveller {
+  position: sticky;
+  top: 135px;
+  z-index: 2;
+}
+
+.timeline-divider i {
+  transform: rotate(90deg);
+  margin-top: -35px;
+  display: block;
+  color: #2857a4;
+}
+
+.experience-designation {
+  font-size: 1.4rem;
+ 
+}
+
+.experience-company-name {
+  margin: 5px 0 0;
+  color: #f8801f;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.experience-duration {
+  color: #fb0303;
+  font-weight: 100;
+  font-size: 1rem;
+}
+
+.experience-description {
+  font-size: 18px;
+  padding: 2px;
+  color: $color5;
+  line-height: 20px;
+  text-align:justify;
+  line-height: 1.7rem;
+  >ul>li>a:first-child{
+    font-weight: 900;
+  }
+}
+

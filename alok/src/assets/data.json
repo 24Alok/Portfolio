@@ -1,0 +1,53 @@
+{
+  "certificates": [
+    {
+     
+      "title": "Internshala",
+      "description": " Web Development: 78%",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1686308967/Portfolio/Web_Development_Training_b2lfhz.jpg"
+    },
+
+    {
+
+      "title": "NPTEL",
+      "description": "Introduction to Algorithms and Analysis: 60% ",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1685300940/Portfolio/Nptel_Algorithm_szbgfr.jpg"
+    },
+    {
+      
+      "title": "Cisco Networking Academy ",
+      "description": "CPA: Programming Essentials in C++",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1686308956/Portfolio/Programming_Esse_tyalew.jpg"
+    },
+    {
+      
+      "title": "Cisco Networking Academy",
+      "description": "PCAP: Programming Essentials in Python",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1686308945/Portfolio/PCAP_-_Programmi_viz1u2.jpg"
+    },
+    {
+      
+      "title": "Cisco Networking Academy",
+      "description": "CCNAv7: Introduction to Networks",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1686308471/Portfolio/AlokKumar-Introduction_to_-certificate_page-0001_dvuzne.jpg"
+    },
+    {
+      
+      "title": "Cisco Networking Academy",
+      "description": "IT Essentials",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1686308490/Portfolio/AlokKumar-IT_Essentials_PC-certificate_page-0001_uq3p9j.jpg"
+    },
+    {
+      
+      "title": "Cisco Networking Academy",
+      "description": "CCNAv7: Swiching, Routing and Wireless Essentials",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1686308925/Portfolio/AlokKumar-Switching_Routin_ixruyt.jpg"
+    },
+    {
+      
+      "title": "Cisco Networking Academy",
+      "description": "CCNAv7: Bridging",
+      "imgSrc": "https://res.cloudinary.com/dfycieppo/image/upload/v1686308449/Portfolio/AlokKumar-Bridging_2018-certificate_page-0001_qfj6cx.jpg"
+    }
+  ]
+}
