@@ -1,10 +1,6 @@
 import React from "react";
 import { AiOutlineMenu,AiOutlineMail} from "react-icons/ai";
 
-
-
-
-
 const Header = ({ setMenuOpen, menuOpen }) => {
   return (
     <>
@@ -55,7 +51,7 @@ const NavContent = ({ setMenuOpen }) => (
         About
       </a>
     </div>
-    <a target="blank" href=" "> <button> Resume </button></a>
+    <a target="blank" href="https://drive.google.com/file/d/1ja6BZiZADnYXxkdHtVS6EFs0kWaaVuUR/view"> <button> Resume </button></a>
     
   </>
 );
