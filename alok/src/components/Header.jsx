@@ -55,7 +55,7 @@ const NavContent = ({ setMenuOpen }) => (
         About
       </a>
     </div>
-    <a target="blank" href="mailto:alok2002in@gmail.com"> <button><AiOutlineMail/> Email</button></a>
+    <a target="blank" href=" "> <button> Resume </button></a>
     
   </>
 );
