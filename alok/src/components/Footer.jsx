@@ -36,7 +36,7 @@ const Footer = () => {
       <aside>
         <h2>Social Media</h2>
 
-        <article>
+        <article className="linkSection">
           <a href="https://www.linkedin.com/in/alok-kumar-62270b1b2" target={"blank"}>
             <AiFillLinkedin />
           </a>
